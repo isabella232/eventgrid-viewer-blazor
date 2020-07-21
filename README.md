@@ -54,3 +54,7 @@ Use the Webhook endpoint:
 ## Examples
 
 In the *examples* folder, examples have been created to demonstrate how to automate the deployment of the EventGrid Viewer Blazor application with or without authentication.  You can read more [here](examples).
+
+## Disclaimer
+
+Temporary switch to non-main branch.
